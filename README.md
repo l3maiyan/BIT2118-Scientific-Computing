@@ -52,13 +52,3 @@ Each script presents:
 
 The accompanying documentation explains the mathematical concept, inputs, operations, output meaning, parameter changes, assumptions and related application.
 
-## Before submitting
-
-1. Replace the student details in the documentation cover section with your own details.
-2. Run every Python script on your computer and check that it works.
-3. Read the documentation and make sure you can explain the code and results.
-4. Create your own GitHub repository named `BIT2118-Scientific-Computing` (or another suitable name).
-5. Upload the contents of this folder to your own repository.
-6. Copy your repository URL and submit it together with the documentation through VLMS.
-
-**Important:** Do not submit a group member's repository as your own. Do not claim that a script has been tested on your computer until you have run it yourself.
